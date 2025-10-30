@@ -47,7 +47,7 @@ This workflow connects:
 ## 🧑‍💻 Author
 Developed by **Suleiman Ahmed**  
 📧 suleimanahmed1222@gmail.com  
-🌐 GitHub: (https://github.com/suleimanahmedCode/n8n-RAGAgent)
+🌐 GitHub: [(https://github.com/suleimanahmedCode/n8n-RAGAgent)](https://github.com/suleimanahmedCode/n8n-RAGAgent.git)
 
 ---
 
